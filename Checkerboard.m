@@ -1,4 +1,5 @@
-function [A] = Checkerboard(n)
+function [A] = checkerboard(n)
+% Problem 4. Make a checkerboard matrix
 %CHECKERBOARD Summary of this function goes here
 %   creates an n-by-n matrix that will have the first position to be 1
 %   like:
