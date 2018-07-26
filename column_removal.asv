@@ -1,4 +1,0 @@
-function B = column_removal(A,n)
-%     Problem 7. Column Remova
-  A = A(:,n) = [];
-end
